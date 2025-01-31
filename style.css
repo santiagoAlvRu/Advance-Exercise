@@ -7,6 +7,8 @@ h1 {
     text-align: center;
     font-family: 'Montserrat';
 }
+/* Montserrat and Fraunces added from GoogleFonts
+I didn't find any interesting font in the default options inside font-family property  */
 
 .author-p {
     text-align: center;
@@ -37,7 +39,7 @@ h3 span {
     color:blueviolet;
     margin: 35px;
 }
-
+/* Adding differentes margins trying to reach some kind of staircase effect between paragraphs */
 
 .p3 {
     font-family: 'Montserrat';
@@ -60,3 +62,4 @@ footer {
 .hr2 {
     width: 80%;
 }
+/* Adding at the end some styling to dividers in index.html */
